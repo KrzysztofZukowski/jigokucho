@@ -1,0 +1,30 @@
+# Zależności
+node_modules/
+
+# Zmienne środowiskowe — NIGDY nie wrzucaj na GitHub
+.env
+.env.local
+.env.*.local
+
+# Klucze Firebase (jeśli masz plik JSON z kluczem)
+serviceAccountKey.json
+firebase-adminsdk*.json
+*-credentials.json
+
+# Logi
+*.log
+npm-debug.log*
+
+# System
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Tymczasowe pliki ekstrakcji
+_extract_tmp.js
+_trees_tmp.js

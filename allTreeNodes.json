@@ -1,0 +1,5122 @@
+{
+  "str_s01": {
+    "id": "str_s01",
+    "type": "stat",
+    "treeStat": "strength",
+    "statGrants": {
+      "strength": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 STR",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "str_s02": {
+    "id": "str_s02",
+    "type": "stat",
+    "treeStat": "strength",
+    "statGrants": {
+      "strength": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 STR",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "str_s03": {
+    "id": "str_s03",
+    "type": "stat",
+    "treeStat": "strength",
+    "statGrants": {
+      "strength": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 STR",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "str_s04": {
+    "id": "str_s04",
+    "type": "stat",
+    "treeStat": "strength",
+    "statGrants": {
+      "strength": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 STR",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "str_s05": {
+    "id": "str_s05",
+    "type": "stat",
+    "treeStat": "strength",
+    "statGrants": {
+      "speed": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 SPD",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "str_s06": {
+    "id": "str_s06",
+    "type": "stat",
+    "treeStat": "strength",
+    "statGrants": {
+      "strength": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 STR",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "str_s07": {
+    "id": "str_s07",
+    "type": "stat",
+    "treeStat": "strength",
+    "statGrants": {
+      "defense": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 DEF",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "str_s08": {
+    "id": "str_s08",
+    "type": "stat",
+    "treeStat": "strength",
+    "statGrants": {
+      "speed": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 SPD",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "str_s09": {
+    "id": "str_s09",
+    "type": "stat",
+    "treeStat": "strength",
+    "statGrants": {
+      "strength": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 STR",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "str_s10": {
+    "id": "str_s10",
+    "type": "stat",
+    "treeStat": "strength",
+    "statGrants": {
+      "vitality": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 VIT",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "str_centrifugal": {
+    "id": "str_centrifugal",
+    "type": "skill",
+    "treeStat": "strength",
+    "statGrants": {},
+    "tags": [],
+    "passiveName": null,
+    "label": "Centrifugal Force",
+    "shortDescription": "",
+    "longDescription": "Twoje techniki szybkiego poruszania się mają 50% większy zasięg.",
+    "tier": 1
+  },
+  "str_brutal_force": {
+    "id": "str_brutal_force",
+    "type": "skill",
+    "treeStat": "strength",
+    "statGrants": {},
+    "tags": [],
+    "passiveName": null,
+    "label": "Brutal Force",
+    "shortDescription": "",
+    "longDescription": "Możesz utworzyć nową technikę na bazie siły.",
+    "tier": 1
+  },
+  "str_inner_dam": {
+    "id": "str_inner_dam",
+    "type": "skill",
+    "treeStat": "strength",
+    "statGrants": {},
+    "tags": [],
+    "passiveName": null,
+    "label": "Inner Dam",
+    "shortDescription": "",
+    "longDescription": "Techniki z drzewa Siły są 50% silniejsze. Techniki z drzewa Tamashi i Reiryoku, 50% słabsze.",
+    "tier": 1
+  },
+  "str_s11": {
+    "id": "str_s11",
+    "type": "stat",
+    "treeStat": "strength",
+    "statGrants": {
+      "strength": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 STR",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "str_s12": {
+    "id": "str_s12",
+    "type": "stat",
+    "treeStat": "strength",
+    "statGrants": {
+      "strength": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 STR",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "str_s13": {
+    "id": "str_s13",
+    "type": "stat",
+    "treeStat": "strength",
+    "statGrants": {
+      "strength": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 STR",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "str_aim_between": {
+    "id": "str_aim_between",
+    "type": "skill",
+    "treeStat": "strength",
+    "statGrants": {},
+    "tags": [],
+    "passiveName": null,
+    "label": "Aim Between",
+    "shortDescription": "",
+    "longDescription": "Raz na walkę, możesz dodać Szybkość do Siły, przy wykonywanym ataku.",
+    "tier": 1
+  },
+  "str_menace_force": {
+    "id": "str_menace_force",
+    "type": "skill",
+    "treeStat": "strength",
+    "statGrants": {},
+    "tags": [],
+    "passiveName": null,
+    "label": "Menace Force",
+    "shortDescription": "",
+    "longDescription": "Możesz ulepszyć technikę na bazie siły.",
+    "tier": 1
+  },
+  "str_spasm": {
+    "id": "str_spasm",
+    "type": "skill",
+    "treeStat": "strength",
+    "statGrants": {},
+    "tags": [],
+    "passiveName": null,
+    "label": "Spasm",
+    "shortDescription": "",
+    "longDescription": "Raz na walkę, możesz użyć Siły jako Odporności, gdy otrzymujesz obrażenia.",
+    "tier": 1
+  },
+  "str_s14": {
+    "id": "str_s14",
+    "type": "stat",
+    "treeStat": "strength",
+    "statGrants": {
+      "strength": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 STR",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "str_s15": {
+    "id": "str_s15",
+    "type": "stat",
+    "treeStat": "strength",
+    "statGrants": {
+      "strength": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 STR",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "str_s16": {
+    "id": "str_s16",
+    "type": "stat",
+    "treeStat": "strength",
+    "statGrants": {
+      "defense": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 DEF",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "str_eye_splitter": {
+    "id": "str_eye_splitter",
+    "type": "skill",
+    "treeStat": "strength",
+    "statGrants": {},
+    "tags": [],
+    "passiveName": null,
+    "label": "Eye Splitter",
+    "shortDescription": "",
+    "longDescription": "Możesz ulepszyć jedną technikę Szybkości i dać jej skalowanie od siły.",
+    "tier": 1
+  },
+  "str_monster": {
+    "id": "str_monster",
+    "type": "skill",
+    "treeStat": "strength",
+    "statGrants": {},
+    "tags": [],
+    "passiveName": null,
+    "label": "Monster",
+    "shortDescription": "",
+    "longDescription": "Możesz utworzyć nową technikę na bazie siły.",
+    "tier": 1
+  },
+  "str_ferocity": {
+    "id": "str_ferocity",
+    "type": "skill",
+    "treeStat": "strength",
+    "statGrants": {},
+    "tags": [],
+    "passiveName": null,
+    "label": "Ferocity",
+    "shortDescription": "",
+    "longDescription": "Możesz ulepszyć jedną technikę Odporności albo Witalności i dać jej skalowanie od siły.",
+    "tier": 1
+  },
+  "str_s17": {
+    "id": "str_s17",
+    "type": "stat",
+    "treeStat": "strength",
+    "statGrants": {
+      "speed": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 SPD",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "str_s18": {
+    "id": "str_s18",
+    "type": "stat",
+    "treeStat": "strength",
+    "statGrants": {
+      "strength": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 STR",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "str_s19": {
+    "id": "str_s19",
+    "type": "stat",
+    "treeStat": "strength",
+    "statGrants": {
+      "vitality": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 VIT",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "str_t2s01": {
+    "id": "str_t2s01",
+    "type": "stat",
+    "treeStat": "strength",
+    "statGrants": {
+      "speed": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+2 SPD",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 2
+  },
+  "str_t2s02": {
+    "id": "str_t2s02",
+    "type": "stat",
+    "treeStat": "strength",
+    "statGrants": {
+      "speed": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 SPD",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 2
+  },
+  "str_t2s03": {
+    "id": "str_t2s03",
+    "type": "stat",
+    "treeStat": "strength",
+    "statGrants": {
+      "strength": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+2 STR",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 2
+  },
+  "str_t2s04": {
+    "id": "str_t2s04",
+    "type": "stat",
+    "treeStat": "strength",
+    "statGrants": {
+      "strength": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 STR",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 2
+  },
+  "str_t2s05": {
+    "id": "str_t2s05",
+    "type": "stat",
+    "treeStat": "strength",
+    "statGrants": {
+      "vitality": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 VIT",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 2
+  },
+  "str_t2s06": {
+    "id": "str_t2s06",
+    "type": "stat",
+    "treeStat": "strength",
+    "statGrants": {
+      "defense": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+2 DEF",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 2
+  },
+  "str_sheer_speed": {
+    "id": "str_sheer_speed",
+    "type": "skill",
+    "treeStat": "strength",
+    "statGrants": {},
+    "tags": [
+      "sheer"
+    ],
+    "passiveName": null,
+    "label": "Sheer Speed",
+    "shortDescription": "",
+    "longDescription": "Uniemożliwia wzięcie innego talentu typu 'Sheer'. Raz na walkę, możesz podwoić swoją Szybkość, przy wykonywanym ataku.",
+    "tier": 2
+  },
+  "str_ext_terror": {
+    "id": "str_ext_terror",
+    "type": "skill",
+    "treeStat": "strength",
+    "statGrants": {},
+    "tags": [
+      "external"
+    ],
+    "passiveName": null,
+    "label": "External Terror",
+    "shortDescription": "",
+    "longDescription": "Uniemożliwia wzięcie innego talentu typu 'External'. Inteligentni przeciwnicy, którzy cię widzą, budują ładunek Strachu z każdą turą. Znacznie ulepsz wybraną technikę na bazie siły.",
+    "tier": 2
+  },
+  "str_sheer_strength": {
+    "id": "str_sheer_strength",
+    "type": "skill",
+    "treeStat": "strength",
+    "statGrants": {},
+    "tags": [
+      "sheer"
+    ],
+    "passiveName": null,
+    "label": "Sheer Strength",
+    "shortDescription": "",
+    "longDescription": "Uniemożliwia wzięcie innego talentu typu 'Sheer'. Raz na walkę, możesz podwoić swoją Siłę, przy wykonywanym ataku.",
+    "tier": 2
+  },
+  "str_ext_ignorance": {
+    "id": "str_ext_ignorance",
+    "type": "skill",
+    "treeStat": "strength",
+    "statGrants": {},
+    "tags": [
+      "external"
+    ],
+    "passiveName": null,
+    "label": "External Ignorance",
+    "shortDescription": "",
+    "longDescription": "Uniemożliwia wzięcie innego talentu typu 'External'. Efekty kontroli umysłu wpływają na ciebie 50% wolniej. Znacznie ulepsz wybraną technikę na bazie siły.",
+    "tier": 2
+  },
+  "str_sheer_defense": {
+    "id": "str_sheer_defense",
+    "type": "skill",
+    "treeStat": "strength",
+    "statGrants": {},
+    "tags": [
+      "sheer"
+    ],
+    "passiveName": null,
+    "label": "Sheer Defense",
+    "shortDescription": "",
+    "longDescription": "Uniemożliwia wzięcie innego talentu typu 'Sheer'. Raz na walkę, możesz podwoić swoją Odporność, przy wykonywanym ataku.",
+    "tier": 2
+  },
+  "spd_s01": {
+    "id": "spd_s01",
+    "type": "stat",
+    "treeStat": "speed",
+    "statGrants": {
+      "speed": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 SPD",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "spd_s02": {
+    "id": "spd_s02",
+    "type": "stat",
+    "treeStat": "speed",
+    "statGrants": {
+      "speed": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 SPD",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "spd_s03": {
+    "id": "spd_s03",
+    "type": "stat",
+    "treeStat": "speed",
+    "statGrants": {
+      "speed": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 SPD",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "spd_s04": {
+    "id": "spd_s04",
+    "type": "stat",
+    "treeStat": "speed",
+    "statGrants": {
+      "speed": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 SPD",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "spd_s05": {
+    "id": "spd_s05",
+    "type": "stat",
+    "treeStat": "speed",
+    "statGrants": {
+      "speed": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 SPD",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "spd_s06": {
+    "id": "spd_s06",
+    "type": "stat",
+    "treeStat": "speed",
+    "statGrants": {
+      "speed": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 SPD",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "spd_s07": {
+    "id": "spd_s07",
+    "type": "stat",
+    "treeStat": "speed",
+    "statGrants": {
+      "speed": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 SPD",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "spd_s08": {
+    "id": "spd_s08",
+    "type": "stat",
+    "treeStat": "speed",
+    "statGrants": {
+      "speed": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 SPD",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "spd_s09": {
+    "id": "spd_s09",
+    "type": "stat",
+    "treeStat": "speed",
+    "statGrants": {
+      "reiatsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 RAS",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "spd_s10": {
+    "id": "spd_s10",
+    "type": "stat",
+    "treeStat": "speed",
+    "statGrants": {
+      "vitality": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 VIT",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "spd_shade_step": {
+    "id": "spd_shade_step",
+    "type": "skill",
+    "treeStat": "speed",
+    "statGrants": {},
+    "tags": [],
+    "passiveName": null,
+    "label": "Shade's Step",
+    "shortDescription": "",
+    "longDescription": "Możesz zmodyfikować swoją podstawową technikę przemieszczania się o aspekt swojej duszy.",
+    "tier": 1
+  },
+  "spd_fast_step": {
+    "id": "spd_fast_step",
+    "type": "skill",
+    "treeStat": "speed",
+    "statGrants": {},
+    "tags": [],
+    "passiveName": null,
+    "label": "Fast Step",
+    "shortDescription": "",
+    "longDescription": "Otrzymujesz lub ulepszasz podstawową technikę przemieszczania się zależną od twojej rasy.",
+    "tier": 1
+  },
+  "spd_fair_trade": {
+    "id": "spd_fair_trade",
+    "type": "skill",
+    "treeStat": "speed",
+    "statGrants": {},
+    "tags": [],
+    "passiveName": null,
+    "label": "Fair-Trade",
+    "shortDescription": "",
+    "longDescription": "Możesz wykonywać dwa razy więcej ataków w turze, kosztem zmniejszenia ich obrażeń o połowę.",
+    "tier": 1
+  },
+  "spd_s11": {
+    "id": "spd_s11",
+    "type": "stat",
+    "treeStat": "speed",
+    "statGrants": {
+      "speed": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+2 SPD",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "spd_s12": {
+    "id": "spd_s12",
+    "type": "stat",
+    "treeStat": "speed",
+    "statGrants": {
+      "reiatsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 RAS",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "spd_s13": {
+    "id": "spd_s13",
+    "type": "stat",
+    "treeStat": "speed",
+    "statGrants": {
+      "vitality": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 VIT",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "spd_s14": {
+    "id": "spd_s14",
+    "type": "stat",
+    "treeStat": "speed",
+    "statGrants": {
+      "speed": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 SPD",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "spd_s15": {
+    "id": "spd_s15",
+    "type": "stat",
+    "treeStat": "speed",
+    "statGrants": {
+      "speed": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 SPD",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "spd_fast_movement": {
+    "id": "spd_fast_movement",
+    "type": "skill",
+    "treeStat": "speed",
+    "statGrants": {},
+    "tags": [],
+    "passiveName": null,
+    "label": "Fast Movement",
+    "shortDescription": "",
+    "longDescription": "Biegasz o 50% szybciej.",
+    "tier": 1
+  },
+  "spd_sudden_strike": {
+    "id": "spd_sudden_strike",
+    "type": "skill",
+    "treeStat": "speed",
+    "statGrants": {},
+    "tags": [],
+    "passiveName": null,
+    "label": "Sudden Strike",
+    "shortDescription": "",
+    "longDescription": "Raz na walkę, możesz wykonać atak bez zużywania akcji.",
+    "tier": 1
+  },
+  "spd_s16": {
+    "id": "spd_s16",
+    "type": "stat",
+    "treeStat": "speed",
+    "statGrants": {
+      "speed": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 SPD",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "spd_s17": {
+    "id": "spd_s17",
+    "type": "stat",
+    "treeStat": "speed",
+    "statGrants": {
+      "speed": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+2 SPD",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "spd_s18": {
+    "id": "spd_s18",
+    "type": "stat",
+    "treeStat": "speed",
+    "statGrants": {
+      "speed": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 SPD",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "spd_flashstep": {
+    "id": "spd_flashstep",
+    "type": "skill",
+    "treeStat": "speed",
+    "statGrants": {},
+    "tags": [],
+    "passiveName": null,
+    "label": "Flashstep",
+    "shortDescription": "",
+    "longDescription": "Twoja podstawowa technika przemieszczania się ma zmniejszony czas odnowienia o połowę.",
+    "tier": 1
+  },
+  "spd_bringerstep": {
+    "id": "spd_bringerstep",
+    "type": "skill",
+    "treeStat": "speed",
+    "statGrants": {},
+    "tags": [],
+    "passiveName": null,
+    "label": "Bringerstep",
+    "shortDescription": "",
+    "longDescription": "Twoja podstawowa technika przemieszczania się ma zwiększony zasięg dwukrotnie.",
+    "tier": 1
+  },
+  "spd_sheer_feather": {
+    "id": "spd_sheer_feather",
+    "type": "skill",
+    "treeStat": "speed",
+    "statGrants": {},
+    "tags": [
+      "sheer"
+    ],
+    "passiveName": null,
+    "label": "Sheer Feather",
+    "shortDescription": "",
+    "longDescription": "Uniemożliwia wzięcie innego talentu 'Sheer'. Każdy trafiony atak w serii zyskuje +0.1 mnożnika na obrażenia. Efekt utracony jest po byciu zranionym.",
+    "tier": 1
+  },
+  "spd_s19": {
+    "id": "spd_s19",
+    "type": "stat",
+    "treeStat": "speed",
+    "statGrants": {
+      "vitality": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 VIT",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "spd_s20": {
+    "id": "spd_s20",
+    "type": "stat",
+    "treeStat": "speed",
+    "statGrants": {
+      "reiatsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 RAS",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "spd_s21": {
+    "id": "spd_s21",
+    "type": "stat",
+    "treeStat": "speed",
+    "statGrants": {
+      "reiatsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 RAS",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "spd_s22": {
+    "id": "spd_s22",
+    "type": "stat",
+    "treeStat": "speed",
+    "statGrants": {
+      "vitality": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+2 VIT",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "spd_s23": {
+    "id": "spd_s23",
+    "type": "stat",
+    "treeStat": "speed",
+    "statGrants": {
+      "reiatsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+2 RAS",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 2
+  },
+  "spd_s24": {
+    "id": "spd_s24",
+    "type": "stat",
+    "treeStat": "speed",
+    "statGrants": {
+      "vitality": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 VIT",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 2
+  },
+  "spd_s25": {
+    "id": "spd_s25",
+    "type": "stat",
+    "treeStat": "speed",
+    "statGrants": {
+      "reiatsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 RAS",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 2
+  },
+  "spd_s26": {
+    "id": "spd_s26",
+    "type": "stat",
+    "treeStat": "speed",
+    "statGrants": {
+      "reiatsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 RAS",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 2
+  },
+  "spd_s27": {
+    "id": "spd_s27",
+    "type": "stat",
+    "treeStat": "speed",
+    "statGrants": {
+      "vitality": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+2 VIT",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 2
+  },
+  "spd_ext_drive": {
+    "id": "spd_ext_drive",
+    "type": "skill",
+    "treeStat": "speed",
+    "statGrants": {},
+    "tags": [
+      "external"
+    ],
+    "passiveName": null,
+    "label": "External Drive",
+    "shortDescription": "",
+    "longDescription": "Uniemożliwia wzięcie innego talentu 'External'. Podczas biegu i technik na nim bazujących, ciężej Ciebie trafić o 30%. Biegasz o 50% szybciej.",
+    "tier": 2
+  },
+  "spd_inner_i": {
+    "id": "spd_inner_i",
+    "type": "skill",
+    "treeStat": "speed",
+    "statGrants": {},
+    "tags": [
+      "inner"
+    ],
+    "passiveName": null,
+    "label": "Inner I",
+    "shortDescription": "",
+    "longDescription": "Uniemożliwia wzięcie innego talentu 'Inner'. W zamian za poświęcenie całej tury na koncentracji, w następnej turze możesz zrobić jedną akcję więcej.",
+    "tier": 2
+  },
+  "spd_inner_self": {
+    "id": "spd_inner_self",
+    "type": "skill",
+    "treeStat": "speed",
+    "statGrants": {},
+    "tags": [
+      "inner"
+    ],
+    "passiveName": null,
+    "label": "Inner Self",
+    "shortDescription": "",
+    "longDescription": "Uniemożliwia wzięcie innego talentu 'Inner'. Raz na walkę, jako efekt techniki bazując na teleportacji, możesz stworzyć postać, która naśladuje twoje ruchy. Trwa na dwie tury.",
+    "tier": 2
+  },
+  "spd_inner_me": {
+    "id": "spd_inner_me",
+    "type": "skill",
+    "treeStat": "speed",
+    "statGrants": {},
+    "tags": [
+      "inner"
+    ],
+    "passiveName": null,
+    "label": "Inner Me",
+    "shortDescription": "",
+    "longDescription": "Uniemożliwia wzięcie innego talentu 'Inner'. Twoje techniki które bazują zarówno na Reiryoku i teleportacji otrzymują dwukrotnie zwiększony zasięg/zmniejszony koszt/zmniejszony czas odnowienia.",
+    "tier": 2
+  },
+  "spd_ext_treachery": {
+    "id": "spd_ext_treachery",
+    "type": "skill",
+    "treeStat": "speed",
+    "statGrants": {},
+    "tags": [
+      "external"
+    ],
+    "passiveName": null,
+    "label": "External Treachery",
+    "shortDescription": "",
+    "longDescription": "Uniemożliwia wzięcie innego talentu 'External'. Jeśli twoja Szybkość jest dwukrotnie wyższa od przeciwnika, twoje ataki trafiają dwukrotnie w dwa różne punkty.",
+    "tier": 2
+  },
+  "vit_s01": {
+    "id": "vit_s01",
+    "type": "stat",
+    "treeStat": "vitality",
+    "statGrants": {
+      "vitality": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 VIT",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "vit_s02": {
+    "id": "vit_s02",
+    "type": "stat",
+    "treeStat": "vitality",
+    "statGrants": {
+      "vitality": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 VIT",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "vit_s03": {
+    "id": "vit_s03",
+    "type": "stat",
+    "treeStat": "vitality",
+    "statGrants": {
+      "vitality": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 VIT",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "vit_s04": {
+    "id": "vit_s04",
+    "type": "stat",
+    "treeStat": "vitality",
+    "statGrants": {
+      "vitality": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 VIT",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "vit_s05": {
+    "id": "vit_s05",
+    "type": "stat",
+    "treeStat": "vitality",
+    "statGrants": {
+      "reiatsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 RAS",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "vit_s06": {
+    "id": "vit_s06",
+    "type": "stat",
+    "treeStat": "vitality",
+    "statGrants": {
+      "vitality": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 VIT",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "vit_s07": {
+    "id": "vit_s07",
+    "type": "stat",
+    "treeStat": "vitality",
+    "statGrants": {
+      "vitality": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 VIT",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "vit_s08": {
+    "id": "vit_s08",
+    "type": "stat",
+    "treeStat": "vitality",
+    "statGrants": {
+      "defense": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 DEF",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "vit_s09": {
+    "id": "vit_s09",
+    "type": "stat",
+    "treeStat": "vitality",
+    "statGrants": {
+      "defense": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 DEF",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "vit_s10": {
+    "id": "vit_s10",
+    "type": "stat",
+    "treeStat": "vitality",
+    "statGrants": {
+      "reiatsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 RAS",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "vit_s11": {
+    "id": "vit_s11",
+    "type": "stat",
+    "treeStat": "vitality",
+    "statGrants": {
+      "vitality": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 VIT",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "vit_s12": {
+    "id": "vit_s12",
+    "type": "stat",
+    "treeStat": "vitality",
+    "statGrants": {
+      "defense": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 DEF",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "vit_shuten": {
+    "id": "vit_shuten",
+    "type": "skill",
+    "treeStat": "vitality",
+    "statGrants": {},
+    "tags": [],
+    "passiveName": null,
+    "label": "Shuten-dōji",
+    "shortDescription": "",
+    "longDescription": "W trakcie walki, możesz tymczasowo poświęcać Witalność, na rzecz Reiatsu w konwersji 1:1.",
+    "tier": 1
+  },
+  "vit_empty_shell": {
+    "id": "vit_empty_shell",
+    "type": "skill",
+    "treeStat": "vitality",
+    "statGrants": {},
+    "tags": [],
+    "passiveName": null,
+    "label": "Empty Shell",
+    "shortDescription": "",
+    "longDescription": "Tracenie kończyn i organów a także negatywne efekty, mają 2 razy trudniej, by cię faktycznie zabić.",
+    "tier": 1
+  },
+  "vit_s13": {
+    "id": "vit_s13",
+    "type": "stat",
+    "treeStat": "vitality",
+    "statGrants": {
+      "reiatsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 RAS",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "vit_s14": {
+    "id": "vit_s14",
+    "type": "stat",
+    "treeStat": "vitality",
+    "statGrants": {
+      "vitality": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 VIT",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "vit_s15": {
+    "id": "vit_s15",
+    "type": "stat",
+    "treeStat": "vitality",
+    "statGrants": {
+      "vitality": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 VIT",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "vit_s16": {
+    "id": "vit_s16",
+    "type": "stat",
+    "treeStat": "vitality",
+    "statGrants": {
+      "vitality": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 VIT",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "vit_s17": {
+    "id": "vit_s17",
+    "type": "stat",
+    "treeStat": "vitality",
+    "statGrants": {
+      "defense": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 DEF",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "vit_vital_furnace": {
+    "id": "vit_vital_furnace",
+    "type": "skill",
+    "treeStat": "vitality",
+    "statGrants": {},
+    "tags": [],
+    "passiveName": null,
+    "label": "Vital Furnace",
+    "shortDescription": "",
+    "longDescription": "Możesz utworzyć nową technikę na bazie witalności.",
+    "tier": 1
+  },
+  "vit_common_deal": {
+    "id": "vit_common_deal",
+    "type": "skill",
+    "treeStat": "vitality",
+    "statGrants": {},
+    "tags": [],
+    "passiveName": null,
+    "label": "Common Deal",
+    "shortDescription": "",
+    "longDescription": "Raz na walkę, możesz poświęcić połowę swojego maksymalnego Reiatsu, by uleczyć się z wybranej cięższej rany.",
+    "tier": 1
+  },
+  "vit_powerhouse": {
+    "id": "vit_powerhouse",
+    "type": "skill",
+    "treeStat": "vitality",
+    "statGrants": {},
+    "tags": [],
+    "passiveName": null,
+    "label": "Powerhouse",
+    "shortDescription": "",
+    "longDescription": "Techniki leczące stworzone przez ciebie, działają na ciebie dwukrotnie lepiej.",
+    "tier": 1
+  },
+  "vit_s18": {
+    "id": "vit_s18",
+    "type": "stat",
+    "treeStat": "vitality",
+    "statGrants": {
+      "vitality": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 VIT",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "vit_s19": {
+    "id": "vit_s19",
+    "type": "stat",
+    "treeStat": "vitality",
+    "statGrants": {
+      "reiatsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 RAS",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "vit_s20": {
+    "id": "vit_s20",
+    "type": "stat",
+    "treeStat": "vitality",
+    "statGrants": {
+      "vitality": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 VIT",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "vit_s21": {
+    "id": "vit_s21",
+    "type": "stat",
+    "treeStat": "vitality",
+    "statGrants": {
+      "defense": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 DEF",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "vit_s22": {
+    "id": "vit_s22",
+    "type": "stat",
+    "treeStat": "vitality",
+    "statGrants": {
+      "vitality": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 VIT",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "vit_s23": {
+    "id": "vit_s23",
+    "type": "stat",
+    "treeStat": "vitality",
+    "statGrants": {
+      "vitality": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 VIT",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "vit_s24": {
+    "id": "vit_s24",
+    "type": "stat",
+    "treeStat": "vitality",
+    "statGrants": {
+      "defense": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 DEF",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "vit_t2s01": {
+    "id": "vit_t2s01",
+    "type": "stat",
+    "treeStat": "vitality",
+    "statGrants": {
+      "vitality": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 VIT",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 2
+  },
+  "vit_t2s02": {
+    "id": "vit_t2s02",
+    "type": "stat",
+    "treeStat": "vitality",
+    "statGrants": {
+      "vitality": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+2 VIT",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 2
+  },
+  "vit_t2s03": {
+    "id": "vit_t2s03",
+    "type": "stat",
+    "treeStat": "vitality",
+    "statGrants": {
+      "vitality": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+2 VIT",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 2
+  },
+  "vit_t2s04": {
+    "id": "vit_t2s04",
+    "type": "stat",
+    "treeStat": "vitality",
+    "statGrants": {
+      "defense": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 DEF",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 2
+  },
+  "vit_t2s05": {
+    "id": "vit_t2s05",
+    "type": "stat",
+    "treeStat": "vitality",
+    "statGrants": {
+      "vitality": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 VIT",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 2
+  },
+  "vit_t2s06": {
+    "id": "vit_t2s06",
+    "type": "stat",
+    "treeStat": "vitality",
+    "statGrants": {
+      "vitality": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 VIT",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 2
+  },
+  "vit_t2s07": {
+    "id": "vit_t2s07",
+    "type": "stat",
+    "treeStat": "vitality",
+    "statGrants": {
+      "defense": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 DEF",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 2
+  },
+  "vit_t2s08": {
+    "id": "vit_t2s08",
+    "type": "stat",
+    "treeStat": "vitality",
+    "statGrants": {
+      "defense": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+2 DEF",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 2
+  },
+  "vit_sheer_pacifist": {
+    "id": "vit_sheer_pacifist",
+    "type": "skill",
+    "treeStat": "vitality",
+    "statGrants": {},
+    "tags": [
+      "sheer"
+    ],
+    "passiveName": null,
+    "label": "Sheer Pacifist",
+    "shortDescription": "",
+    "longDescription": "Uniemożliwia wzięcie innego talentu 'Sheer'. Pierwsze leczenie w rundzie nie zużywa akcji.",
+    "tier": 2
+  },
+  "vit_inner_vitality": {
+    "id": "vit_inner_vitality",
+    "type": "skill",
+    "treeStat": "vitality",
+    "statGrants": {},
+    "tags": [
+      "inner"
+    ],
+    "passiveName": null,
+    "label": "Inner Vitality",
+    "shortDescription": "",
+    "longDescription": "Uniemożliwia wzięcie innego talentu 'Inner'. Wszystkie węzły posiadające w nazwie 'Vital' są dwukrotnie silniejsze. Możesz ulepszyć technikę na osi Witalności.",
+    "tier": 2
+  },
+  "vit_inner_sun": {
+    "id": "vit_inner_sun",
+    "type": "skill",
+    "treeStat": "vitality",
+    "statGrants": {},
+    "tags": [
+      "inner"
+    ],
+    "passiveName": null,
+    "label": "Inner Sun",
+    "shortDescription": "",
+    "longDescription": "Uniemożliwia wzięcie innego talentu 'Inner'. Jesteś w stanie znieść dwukrotnie więcej obrażeń.",
+    "tier": 2
+  },
+  "vit_inner_life": {
+    "id": "vit_inner_life",
+    "type": "skill",
+    "treeStat": "vitality",
+    "statGrants": {},
+    "tags": [
+      "inner"
+    ],
+    "passiveName": null,
+    "label": "Inner Life",
+    "shortDescription": "",
+    "longDescription": "Uniemożliwia wzięcie innego talentu 'Inner'. Po upływie doby od śmierci, twoje ostatki Reishi ożywiają cię, jeśli masz jak.",
+    "tier": 2
+  },
+  "vit_sheer_death": {
+    "id": "vit_sheer_death",
+    "type": "skill",
+    "treeStat": "vitality",
+    "statGrants": {},
+    "tags": [
+      "sheer"
+    ],
+    "passiveName": null,
+    "label": "Sheer Death",
+    "shortDescription": "",
+    "longDescription": "Uniemożliwia wzięcie innego talentu 'Sheer'. Przeciwnik nie jest w stanie określić w jakim jest stanie. Zyskujesz 25% szans na uniknięcie kontroli tłumu.",
+    "tier": 2
+  },
+  "def_s01": {
+    "id": "def_s01",
+    "type": "stat",
+    "treeStat": "defense",
+    "statGrants": {
+      "defense": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 DEF",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "def_s02": {
+    "id": "def_s02",
+    "type": "stat",
+    "treeStat": "defense",
+    "statGrants": {
+      "defense": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 DEF",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "def_s03": {
+    "id": "def_s03",
+    "type": "stat",
+    "treeStat": "defense",
+    "statGrants": {
+      "defense": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 DEF",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "def_s04": {
+    "id": "def_s04",
+    "type": "stat",
+    "treeStat": "defense",
+    "statGrants": {
+      "defense": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 DEF",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "def_s05": {
+    "id": "def_s05",
+    "type": "stat",
+    "treeStat": "defense",
+    "statGrants": {
+      "strength": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 STR",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "def_s06": {
+    "id": "def_s06",
+    "type": "stat",
+    "treeStat": "defense",
+    "statGrants": {
+      "defense": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 DEF",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "def_s07": {
+    "id": "def_s07",
+    "type": "stat",
+    "treeStat": "defense",
+    "statGrants": {
+      "defense": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 DEF",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "def_s08": {
+    "id": "def_s08",
+    "type": "stat",
+    "treeStat": "defense",
+    "statGrants": {
+      "defense": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 DEF",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "def_s09": {
+    "id": "def_s09",
+    "type": "stat",
+    "treeStat": "defense",
+    "statGrants": {
+      "vitality": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 VIT",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "def_s10": {
+    "id": "def_s10",
+    "type": "stat",
+    "treeStat": "defense",
+    "statGrants": {
+      "strength": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 STR",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "def_s11": {
+    "id": "def_s11",
+    "type": "stat",
+    "treeStat": "defense",
+    "statGrants": {
+      "defense": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 DEF",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "def_s12": {
+    "id": "def_s12",
+    "type": "stat",
+    "treeStat": "defense",
+    "statGrants": {
+      "vitality": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 VIT",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "def_stone_shard": {
+    "id": "def_stone_shard",
+    "type": "skill",
+    "treeStat": "defense",
+    "statGrants": {},
+    "tags": [],
+    "passiveName": null,
+    "label": "Stone Shard",
+    "shortDescription": "",
+    "longDescription": "Możesz ulepszyć swoją technikę na bazie defensywy i dodać jej aspekt opierający o Reiatsu.",
+    "tier": 1
+  },
+  "def_vital_shard": {
+    "id": "def_vital_shard",
+    "type": "skill",
+    "treeStat": "defense",
+    "statGrants": {},
+    "tags": [],
+    "passiveName": null,
+    "label": "Vital Shard",
+    "shortDescription": "",
+    "longDescription": "Możesz ulepszyć swoją technikę na bazie defensywy i dodać jej aspekt opierający o Witalność.",
+    "tier": 1
+  },
+  "def_s13": {
+    "id": "def_s13",
+    "type": "stat",
+    "treeStat": "defense",
+    "statGrants": {
+      "defense": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 DEF",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "def_s14": {
+    "id": "def_s14",
+    "type": "stat",
+    "treeStat": "defense",
+    "statGrants": {
+      "strength": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 STR",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "def_s15": {
+    "id": "def_s15",
+    "type": "stat",
+    "treeStat": "defense",
+    "statGrants": {
+      "defense": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 DEF",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "def_s16": {
+    "id": "def_s16",
+    "type": "stat",
+    "treeStat": "defense",
+    "statGrants": {
+      "vitality": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 VIT",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "def_s17": {
+    "id": "def_s17",
+    "type": "stat",
+    "treeStat": "defense",
+    "statGrants": {
+      "defense": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 DEF",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "def_reishi_sponge": {
+    "id": "def_reishi_sponge",
+    "type": "skill",
+    "treeStat": "defense",
+    "statGrants": {},
+    "tags": [],
+    "passiveName": null,
+    "label": "Reishi Sponge",
+    "shortDescription": "",
+    "longDescription": "Otrzymujesz bonus 10% do siły oraz 5% bonus do resty statystyk (poza obronę), za każdy punkt Obrony. Negatywne statusy trwają na tobie dwukrotnie dłużej.",
+    "tier": 1
+  },
+  "def_stoneheart": {
+    "id": "def_stoneheart",
+    "type": "skill",
+    "treeStat": "defense",
+    "statGrants": {},
+    "tags": [],
+    "passiveName": null,
+    "label": "Stoneheart",
+    "shortDescription": "",
+    "longDescription": "Możesz utworzyć nową technikę na bazie Obrony.",
+    "tier": 1
+  },
+  "def_nihilistic_path": {
+    "id": "def_nihilistic_path",
+    "type": "skill",
+    "treeStat": "defense",
+    "statGrants": {},
+    "tags": [],
+    "passiveName": null,
+    "label": "Nihilistic Path",
+    "shortDescription": "",
+    "longDescription": "Otrzymując obrażenia, zwiększasz jedną wybraną statystykę adekwatnie do spadku życia. Nie możesz korzystać z benefitów zbroi.",
+    "tier": 1
+  },
+  "def_s18": {
+    "id": "def_s18",
+    "type": "stat",
+    "treeStat": "defense",
+    "statGrants": {
+      "strength": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 STR",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "def_s19": {
+    "id": "def_s19",
+    "type": "stat",
+    "treeStat": "defense",
+    "statGrants": {
+      "strength": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 STR",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "def_s20": {
+    "id": "def_s20",
+    "type": "stat",
+    "treeStat": "defense",
+    "statGrants": {
+      "vitality": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 VIT",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "def_s21": {
+    "id": "def_s21",
+    "type": "stat",
+    "treeStat": "defense",
+    "statGrants": {
+      "defense": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 DEF",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "def_s22": {
+    "id": "def_s22",
+    "type": "stat",
+    "treeStat": "defense",
+    "statGrants": {
+      "vitality": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 VIT",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "def_bujutsu_hardship": {
+    "id": "def_bujutsu_hardship",
+    "type": "skill",
+    "treeStat": "defense",
+    "statGrants": {},
+    "tags": [],
+    "passiveName": null,
+    "label": "Bujutsu Hardship",
+    "shortDescription": "",
+    "longDescription": "Twoje techniki walki wręcz zadają dodatkowe obrażenia zależne od Obrony (ok. 25% przelicznika dodatkowego).",
+    "tier": 1
+  },
+  "def_stone_shrine": {
+    "id": "def_stone_shrine",
+    "type": "skill",
+    "treeStat": "defense",
+    "statGrants": {},
+    "tags": [],
+    "passiveName": null,
+    "label": "Stone Shrine",
+    "shortDescription": "",
+    "longDescription": "Podczas przyjmowania pozycji obronnej, twoja statystyka Obrony jest o 25% efektywniejsza.",
+    "tier": 1
+  },
+  "def_counterfeit_counter": {
+    "id": "def_counterfeit_counter",
+    "type": "skill",
+    "treeStat": "defense",
+    "statGrants": {},
+    "tags": [],
+    "passiveName": null,
+    "label": "Counterfeit Counter",
+    "shortDescription": "",
+    "longDescription": "Podczas otrzymywania ataku, maksymalnie dwa razy na rundę możesz wykonać kontratak podstawowym atakiem. Twoja Szybkość jest zmniejszona o 25%.",
+    "tier": 1
+  },
+  "def_s23": {
+    "id": "def_s23",
+    "type": "stat",
+    "treeStat": "defense",
+    "statGrants": {
+      "strength": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 STR",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "def_s24": {
+    "id": "def_s24",
+    "type": "stat",
+    "treeStat": "defense",
+    "statGrants": {
+      "defense": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 DEF",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "def_s25": {
+    "id": "def_s25",
+    "type": "stat",
+    "treeStat": "defense",
+    "statGrants": {
+      "vitality": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 VIT",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "def_s26": {
+    "id": "def_s26",
+    "type": "stat",
+    "treeStat": "defense",
+    "statGrants": {
+      "strength": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+2 STR",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 2
+  },
+  "def_s27": {
+    "id": "def_s27",
+    "type": "stat",
+    "treeStat": "defense",
+    "statGrants": {
+      "strength": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 STR",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 2
+  },
+  "def_s28": {
+    "id": "def_s28",
+    "type": "stat",
+    "treeStat": "defense",
+    "statGrants": {
+      "defense": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+2 DEF",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 2
+  },
+  "def_s29": {
+    "id": "def_s29",
+    "type": "stat",
+    "treeStat": "defense",
+    "statGrants": {
+      "vitality": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 VIT",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 2
+  },
+  "def_s30": {
+    "id": "def_s30",
+    "type": "stat",
+    "treeStat": "defense",
+    "statGrants": {
+      "vitality": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+2 VIT",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 2
+  },
+  "def_sheer_oblivion": {
+    "id": "def_sheer_oblivion",
+    "type": "skill",
+    "treeStat": "defense",
+    "statGrants": {},
+    "tags": [
+      "sheer"
+    ],
+    "passiveName": null,
+    "label": "Sheer Oblivion",
+    "shortDescription": "",
+    "longDescription": "Uniemożliwia wzięcie innego talentu 'Sheer'. Możesz blokować ataki, nawet jeśli są zbyt szybkie. Od teraz jesteś ślepy.",
+    "tier": 2
+  },
+  "def_ext_shatter": {
+    "id": "def_ext_shatter",
+    "type": "skill",
+    "treeStat": "defense",
+    "statGrants": {},
+    "tags": [
+      "external"
+    ],
+    "passiveName": null,
+    "label": "External Shatter",
+    "shortDescription": "",
+    "longDescription": "Uniemożliwia wzięcie innego talentu 'External'. Twoje bronie od teraz skalują obrażenia od Obrony, ale niszczą się dwukrotnie szybciej.",
+    "tier": 2
+  },
+  "def_inner_courtesy": {
+    "id": "def_inner_courtesy",
+    "type": "skill",
+    "treeStat": "defense",
+    "statGrants": {},
+    "tags": [
+      "inner"
+    ],
+    "passiveName": null,
+    "label": "Inner Courtesy",
+    "shortDescription": "",
+    "longDescription": "Uniemożliwia wzięcie innego talentu 'Inner'. Jeśli sojusznik w zasięgu 5 metrów otrzymuje atak, możesz go przekierować w pełni na siebie.",
+    "tier": 2
+  },
+  "def_ext_whisper": {
+    "id": "def_ext_whisper",
+    "type": "skill",
+    "treeStat": "defense",
+    "statGrants": {},
+    "tags": [
+      "external"
+    ],
+    "passiveName": null,
+    "label": "External Whisper",
+    "shortDescription": "",
+    "longDescription": "Uniemożliwia wzięcie innego talentu 'External'. Twoje pozytywne efekty nakładane na innych są w 50% efektywniejsze.",
+    "tier": 2
+  },
+  "def_sheer_behemot": {
+    "id": "def_sheer_behemot",
+    "type": "skill",
+    "treeStat": "defense",
+    "statGrants": {},
+    "tags": [
+      "sheer"
+    ],
+    "passiveName": null,
+    "label": "Sheer Behemot",
+    "shortDescription": "",
+    "longDescription": "Uniemożliwia wzięcie innego talentu 'Sheer'. Wszystkie węzły i bonusy dające Szybkość, dają jej połowę i drugą połowę zmieniona jest na Obronę.",
+    "tier": 2
+  },
+  "ras_s01": {
+    "id": "ras_s01",
+    "type": "stat",
+    "treeStat": "reiatsu",
+    "statGrants": {
+      "reiatsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 RAS",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "ras_s02": {
+    "id": "ras_s02",
+    "type": "stat",
+    "treeStat": "reiatsu",
+    "statGrants": {
+      "reiatsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 RAS",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "ras_s03": {
+    "id": "ras_s03",
+    "type": "stat",
+    "treeStat": "reiatsu",
+    "statGrants": {
+      "reiatsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 RAS",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "ras_s04": {
+    "id": "ras_s04",
+    "type": "stat",
+    "treeStat": "reiatsu",
+    "statGrants": {
+      "reiatsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 RAS",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "ras_s05": {
+    "id": "ras_s05",
+    "type": "stat",
+    "treeStat": "reiatsu",
+    "statGrants": {
+      "reiatsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 RAS",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "ras_s06": {
+    "id": "ras_s06",
+    "type": "stat",
+    "treeStat": "reiatsu",
+    "statGrants": {
+      "reiatsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 RAS",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "ras_s07": {
+    "id": "ras_s07",
+    "type": "stat",
+    "treeStat": "reiatsu",
+    "statGrants": {
+      "reiatsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 RAS",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "ras_s08": {
+    "id": "ras_s08",
+    "type": "stat",
+    "treeStat": "reiatsu",
+    "statGrants": {
+      "reiatsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 RAS",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "ras_s09": {
+    "id": "ras_s09",
+    "type": "stat",
+    "treeStat": "reiatsu",
+    "statGrants": {
+      "reiatsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 RAS",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "ras_s10": {
+    "id": "ras_s10",
+    "type": "stat",
+    "treeStat": "reiatsu",
+    "statGrants": {
+      "reiatsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 RAS",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "ras_s11": {
+    "id": "ras_s11",
+    "type": "stat",
+    "treeStat": "reiatsu",
+    "statGrants": {
+      "reiatsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 RAS",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "ras_s12": {
+    "id": "ras_s12",
+    "type": "stat",
+    "treeStat": "reiatsu",
+    "statGrants": {
+      "reiatsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 RAS",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "ras_s13": {
+    "id": "ras_s13",
+    "type": "stat",
+    "treeStat": "reiatsu",
+    "statGrants": {
+      "reiatsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 RAS",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "ras_slow_steps": {
+    "id": "ras_slow_steps",
+    "type": "skill",
+    "treeStat": "reiatsu",
+    "statGrants": {},
+    "tags": [
+      "ras_slow_steps"
+    ],
+    "passiveName": null,
+    "label": "Slow Steps",
+    "shortDescription": "",
+    "longDescription": "Uniemożliwia wzięcie 'Don't Look Back'. Twoje wyczuwanie Reiatsu jest znacznie polepszone.",
+    "tier": 1
+  },
+  "ras_dont_look_back": {
+    "id": "ras_dont_look_back",
+    "type": "skill",
+    "treeStat": "reiatsu",
+    "statGrants": {},
+    "tags": [
+      "ras_dont_look_back"
+    ],
+    "passiveName": null,
+    "label": "Don't Look Back",
+    "shortDescription": "",
+    "longDescription": "Uniemożliwia wzięcie 'Slow Steps'. Twoja nauka technik na bazie Reiatsu jest dwa razy bardziej efektywna.",
+    "tier": 1
+  },
+  "ras_s14": {
+    "id": "ras_s14",
+    "type": "stat",
+    "treeStat": "reiatsu",
+    "statGrants": {
+      "reiatsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 RAS",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "ras_s15": {
+    "id": "ras_s15",
+    "type": "stat",
+    "treeStat": "reiatsu",
+    "statGrants": {
+      "reiatsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 RAS",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "ras_s16": {
+    "id": "ras_s16",
+    "type": "stat",
+    "treeStat": "reiatsu",
+    "statGrants": {
+      "reiatsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 RAS",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "ras_first_step": {
+    "id": "ras_first_step",
+    "type": "skill",
+    "treeStat": "reiatsu",
+    "statGrants": {},
+    "tags": [],
+    "passiveName": null,
+    "label": "First Step",
+    "shortDescription": "",
+    "longDescription": "Pozwala utworzyć lub ulepszyć technikę na bazie Reiatsu.",
+    "tier": 1
+  },
+  "ras_last_step": {
+    "id": "ras_last_step",
+    "type": "skill",
+    "treeStat": "reiatsu",
+    "statGrants": {},
+    "tags": [],
+    "passiveName": null,
+    "label": "Last Step",
+    "shortDescription": "",
+    "longDescription": "Pozwala utworzyć lub ulepszyć technikę na bazie Reiatsu.",
+    "tier": 1
+  },
+  "ras_s17": {
+    "id": "ras_s17",
+    "type": "stat",
+    "treeStat": "reiatsu",
+    "statGrants": {
+      "reiatsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 RAS",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "ras_s18": {
+    "id": "ras_s18",
+    "type": "stat",
+    "treeStat": "reiatsu",
+    "statGrants": {
+      "reiatsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 RAS",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "ras_s19": {
+    "id": "ras_s19",
+    "type": "stat",
+    "treeStat": "reiatsu",
+    "statGrants": {
+      "reiatsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 RAS",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "ras_s20": {
+    "id": "ras_s20",
+    "type": "stat",
+    "treeStat": "reiatsu",
+    "statGrants": {
+      "reiatsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 RAS",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "ras_s21": {
+    "id": "ras_s21",
+    "type": "stat",
+    "treeStat": "reiatsu",
+    "statGrants": {
+      "reiatsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 RAS",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "ras_s22": {
+    "id": "ras_s22",
+    "type": "stat",
+    "treeStat": "reiatsu",
+    "statGrants": {
+      "reiatsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 RAS",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "ras_step_by_step": {
+    "id": "ras_step_by_step",
+    "type": "skill",
+    "treeStat": "reiatsu",
+    "statGrants": {},
+    "tags": [
+      "ras_step_by_step"
+    ],
+    "passiveName": null,
+    "label": "Step by Step",
+    "shortDescription": "",
+    "longDescription": "Uniemożliwia wzięcie 'Little Steps'. Każde trafienie atakiem białym bądź techniką na bazie Reiatsu odnawia jej 5%.",
+    "tier": 1
+  },
+  "ras_little_steps": {
+    "id": "ras_little_steps",
+    "type": "skill",
+    "treeStat": "reiatsu",
+    "statGrants": {},
+    "tags": [
+      "ras_little_steps"
+    ],
+    "passiveName": null,
+    "label": "Little Steps",
+    "shortDescription": "",
+    "longDescription": "Uniemożliwia wzięcie 'Step by Step'. Za każdym razem gdy odnawiasz Reiatsu, odnawiasz też 1% maks. zasobu, lub 5% jeśli jesteś poważnie ranny (HP < 30%).",
+    "tier": 1
+  },
+  "ras_s23": {
+    "id": "ras_s23",
+    "type": "stat",
+    "treeStat": "reiatsu",
+    "statGrants": {
+      "reiatsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+2 RAS",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "ras_s24": {
+    "id": "ras_s24",
+    "type": "stat",
+    "treeStat": "reiatsu",
+    "statGrants": {
+      "reiatsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+2 RAS",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "ras_s25": {
+    "id": "ras_s25",
+    "type": "stat",
+    "treeStat": "reiatsu",
+    "statGrants": {
+      "reiatsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+2 RAS",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "ras_grave_step": {
+    "id": "ras_grave_step",
+    "type": "skill",
+    "treeStat": "reiatsu",
+    "statGrants": {},
+    "tags": [
+      "ras_grave_step"
+    ],
+    "passiveName": null,
+    "label": "Grave Step",
+    "shortDescription": "",
+    "longDescription": "Uniemożliwia wzięcie 'Side Step'. Możesz pozbyć się możliwości Uniku i Bloku na czas 10 tur. W tym czasie zyskujesz 1.5x mnożnik Reiatsu.",
+    "tier": 1
+  },
+  "ras_side_step": {
+    "id": "ras_side_step",
+    "type": "skill",
+    "treeStat": "reiatsu",
+    "statGrants": {},
+    "tags": [
+      "ras_side_step"
+    ],
+    "passiveName": null,
+    "label": "Side Step",
+    "shortDescription": "",
+    "longDescription": "Uniemożliwia wzięcie 'Grave Step'. Wyczuwasz ataki duchowe, nawet jeśli twoje zmysły ich nie wyłapują.",
+    "tier": 1
+  },
+  "ras_t2s01": {
+    "id": "ras_t2s01",
+    "type": "stat",
+    "treeStat": "reiatsu",
+    "statGrants": {
+      "reiatsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+2 RAS",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 2
+  },
+  "ras_t2s02": {
+    "id": "ras_t2s02",
+    "type": "stat",
+    "treeStat": "reiatsu",
+    "statGrants": {
+      "reiatsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+2 RAS",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 2
+  },
+  "ras_t2s03": {
+    "id": "ras_t2s03",
+    "type": "stat",
+    "treeStat": "reiatsu",
+    "statGrants": {
+      "reiatsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+2 RAS",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 2
+  },
+  "ras_t2s04": {
+    "id": "ras_t2s04",
+    "type": "stat",
+    "treeStat": "reiatsu",
+    "statGrants": {
+      "reiatsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+2 RAS",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 2
+  },
+  "ras_hopeful_fall": {
+    "id": "ras_hopeful_fall",
+    "type": "skill",
+    "treeStat": "reiatsu",
+    "statGrants": {},
+    "tags": [
+      "hopeful"
+    ],
+    "passiveName": null,
+    "label": "Hopeful Fall",
+    "shortDescription": "",
+    "longDescription": "Uniemożliwia wzięcie innego talentu 'Hopeful'. Za każdy punkt aktualnie posiadanego Reiatsu, wszystkie pozostałe statystyki podstawowe wzrastają o 0.1. Poniżej połowy maks. Reiatsu efekt jest odwrotny.",
+    "tier": 2
+  },
+  "ras_hopeful_reunion": {
+    "id": "ras_hopeful_reunion",
+    "type": "skill",
+    "treeStat": "reiatsu",
+    "statGrants": {},
+    "tags": [
+      "hopeful"
+    ],
+    "passiveName": null,
+    "label": "Hopeful Reunion",
+    "shortDescription": "",
+    "longDescription": "Uniemożliwia wzięcie innego talentu 'Hopeful'. Rozpoznajesz ślad Reiatsu swoich poznanych sojuszników i wrogów z najdalszych odległości.",
+    "tier": 2
+  },
+  "ras_hopeful_fragile": {
+    "id": "ras_hopeful_fragile",
+    "type": "skill",
+    "treeStat": "reiatsu",
+    "statGrants": {},
+    "tags": [
+      "hopeful"
+    ],
+    "passiveName": null,
+    "label": "Hopeful Fragile Talent",
+    "shortDescription": "",
+    "longDescription": "Uniemożliwia wzięcie innego talentu 'Hopeful'. Możesz wziąć dodatkowy talent 'Inner' lub 'External'. Twoje statystyki Reiatsu spadają o połowę na stałe.",
+    "tier": 2
+  },
+  "ras_hopeful_void": {
+    "id": "ras_hopeful_void",
+    "type": "skill",
+    "treeStat": "reiatsu",
+    "statGrants": {},
+    "tags": [
+      "hopeful"
+    ],
+    "passiveName": null,
+    "label": "Hopeful Void",
+    "shortDescription": "",
+    "longDescription": "Uniemożliwia wzięcie innego talentu 'Hopeful'. Możesz wyzbyć się swojego Reiatsu na czas 10 tur. Podczas tego twoje podstawowe statystyki są dwukrotnie wyższe.",
+    "tier": 2
+  },
+  "ras_hopeful_deceit": {
+    "id": "ras_hopeful_deceit",
+    "type": "skill",
+    "treeStat": "reiatsu",
+    "statGrants": {},
+    "tags": [
+      "hopeful"
+    ],
+    "passiveName": null,
+    "label": "Hopeful Deceit",
+    "shortDescription": "",
+    "longDescription": "Uniemożliwia wzięcie innego talentu 'Hopeful'. Możesz dowolnie kontrolować ilość wypuszczonego Reiatsu przez presję i techniki, od 0% do 50%.",
+    "tier": 2
+  },
+  "ryk_s01": {
+    "id": "ryk_s01",
+    "type": "stat",
+    "treeStat": "reiryoku",
+    "statGrants": {
+      "reiryoku": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 RYK",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "ryk_s02": {
+    "id": "ryk_s02",
+    "type": "stat",
+    "treeStat": "reiryoku",
+    "statGrants": {
+      "reiryoku": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 RYK",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "ryk_s03": {
+    "id": "ryk_s03",
+    "type": "stat",
+    "treeStat": "reiryoku",
+    "statGrants": {
+      "reiryoku": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 RYK",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "ryk_s04": {
+    "id": "ryk_s04",
+    "type": "stat",
+    "treeStat": "reiryoku",
+    "statGrants": {
+      "reiryoku": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 RYK",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "ryk_s05": {
+    "id": "ryk_s05",
+    "type": "stat",
+    "treeStat": "reiryoku",
+    "statGrants": {
+      "reiryoku": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 RYK",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "ryk_s06": {
+    "id": "ryk_s06",
+    "type": "stat",
+    "treeStat": "reiryoku",
+    "statGrants": {
+      "reiryoku": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 RYK",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "ryk_s07": {
+    "id": "ryk_s07",
+    "type": "stat",
+    "treeStat": "reiryoku",
+    "statGrants": {
+      "reiryoku": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 RYK",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "ryk_s08": {
+    "id": "ryk_s08",
+    "type": "stat",
+    "treeStat": "reiryoku",
+    "statGrants": {
+      "reiryoku": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 RYK",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "ryk_s09": {
+    "id": "ryk_s09",
+    "type": "stat",
+    "treeStat": "reiryoku",
+    "statGrants": {
+      "reiryoku": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 RYK",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "ryk_s10": {
+    "id": "ryk_s10",
+    "type": "stat",
+    "treeStat": "reiryoku",
+    "statGrants": {
+      "reiryoku": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 RYK",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "ryk_s11": {
+    "id": "ryk_s11",
+    "type": "stat",
+    "treeStat": "reiryoku",
+    "statGrants": {
+      "reiryoku": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 RYK",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "ryk_inner_hyper": {
+    "id": "ryk_inner_hyper",
+    "type": "skill",
+    "treeStat": "reiryoku",
+    "statGrants": {},
+    "tags": [],
+    "passiveName": null,
+    "label": "Inner Hyperfixation",
+    "shortDescription": "",
+    "longDescription": "Praktyka 'magiczna' twojej rasy przychodzi ci dwukrotnie łatwiej. Zapamiętasz ruchy mechaniczne praktycznie od razu.",
+    "tier": 1
+  },
+  "ryk_high_cost": {
+    "id": "ryk_high_cost",
+    "type": "skill",
+    "treeStat": "reiryoku",
+    "statGrants": {},
+    "tags": [],
+    "passiveName": null,
+    "label": "High Cost",
+    "shortDescription": "",
+    "longDescription": "Sztuki 'magii' twojej rasy są dla ciebie znacznie łatwiejsze do zrozumienia. Zaczynasz widzieć strukturę reishi i reiryoku.",
+    "tier": 1
+  },
+  "ryk_s12": {
+    "id": "ryk_s12",
+    "type": "stat",
+    "treeStat": "reiryoku",
+    "statGrants": {
+      "reiryoku": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 RYK",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "ryk_s13": {
+    "id": "ryk_s13",
+    "type": "stat",
+    "treeStat": "reiryoku",
+    "statGrants": {
+      "reiryoku": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 RYK",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "ryk_s14": {
+    "id": "ryk_s14",
+    "type": "stat",
+    "treeStat": "reiryoku",
+    "statGrants": {
+      "reiryoku": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 RYK",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "ryk_s15": {
+    "id": "ryk_s15",
+    "type": "stat",
+    "treeStat": "reiryoku",
+    "statGrants": {
+      "reiryoku": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 RYK",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "ryk_s16": {
+    "id": "ryk_s16",
+    "type": "stat",
+    "treeStat": "reiryoku",
+    "statGrants": {
+      "reiryoku": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 RYK",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "ryk_gold_cannon": {
+    "id": "ryk_gold_cannon",
+    "type": "skill",
+    "treeStat": "reiryoku",
+    "statGrants": {},
+    "tags": [],
+    "passiveName": null,
+    "label": "Gold Cannon",
+    "shortDescription": "",
+    "longDescription": "Utwórz szybką i lekką technikę na bazie Reiryoku, bądź ulepsz jedną.",
+    "tier": 1
+  },
+  "ryk_broken_swords": {
+    "id": "ryk_broken_swords",
+    "type": "skill",
+    "treeStat": "reiryoku",
+    "statGrants": {},
+    "tags": [],
+    "passiveName": null,
+    "label": "Broken Swords",
+    "shortDescription": "",
+    "longDescription": "Utwórz powolną, potężną technikę na bazie Reiryoku, bądź ulepsz jedną.",
+    "tier": 1
+  },
+  "ryk_s17": {
+    "id": "ryk_s17",
+    "type": "stat",
+    "treeStat": "reiryoku",
+    "statGrants": {
+      "reiryoku": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 RYK",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "ryk_s18": {
+    "id": "ryk_s18",
+    "type": "stat",
+    "treeStat": "reiryoku",
+    "statGrants": {
+      "reiryoku": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 RYK",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "ryk_s19": {
+    "id": "ryk_s19",
+    "type": "stat",
+    "treeStat": "reiryoku",
+    "statGrants": {
+      "reiryoku": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 RYK",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "ryk_s20": {
+    "id": "ryk_s20",
+    "type": "stat",
+    "treeStat": "reiryoku",
+    "statGrants": {
+      "reiryoku": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 RYK",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "ryk_s21": {
+    "id": "ryk_s21",
+    "type": "stat",
+    "treeStat": "reiryoku",
+    "statGrants": {
+      "reiryoku": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 RYK",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "ryk_s22": {
+    "id": "ryk_s22",
+    "type": "stat",
+    "treeStat": "reiryoku",
+    "statGrants": {
+      "reiryoku": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 RYK",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "ryk_s23": {
+    "id": "ryk_s23",
+    "type": "stat",
+    "treeStat": "reiryoku",
+    "statGrants": {
+      "reiryoku": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 RYK",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "ryk_s24": {
+    "id": "ryk_s24",
+    "type": "stat",
+    "treeStat": "reiryoku",
+    "statGrants": {
+      "reiryoku": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 RYK",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "ryk_s25": {
+    "id": "ryk_s25",
+    "type": "stat",
+    "treeStat": "reiryoku",
+    "statGrants": {
+      "reiryoku": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 RYK",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "ryk_inner_witch": {
+    "id": "ryk_inner_witch",
+    "type": "skill",
+    "treeStat": "reiryoku",
+    "statGrants": {},
+    "tags": [],
+    "passiveName": null,
+    "label": "Inner Witch",
+    "shortDescription": "",
+    "longDescription": "Tworzenie nowych technik na bazie Reiryoku przychodzi ci szybciej. Łatwiej też ci doprowadzić, by posiadały zamierzany przez ciebie efekt.",
+    "tier": 1
+  },
+  "ryk_magicians_sleeve": {
+    "id": "ryk_magicians_sleeve",
+    "type": "skill",
+    "treeStat": "reiryoku",
+    "statGrants": {},
+    "tags": [],
+    "passiveName": null,
+    "label": "Magician's Sleeve",
+    "shortDescription": "",
+    "longDescription": "Modyfikacja technik Reiryoku przychodzi ci prościej. Zaledwie po kilku porażkach, zaczynasz już rozumieć zasady.",
+    "tier": 1
+  },
+  "ryk_tombstone": {
+    "id": "ryk_tombstone",
+    "type": "skill",
+    "treeStat": "reiryoku",
+    "statGrants": {},
+    "tags": [],
+    "passiveName": null,
+    "label": "Tombstone",
+    "shortDescription": "",
+    "longDescription": "Kiedy ktoś ci przekazuje wiedzę, jest trzykrotnie efektywniejszy. Nauka z zapisków od teraz podlicza się pod przekazywanie wiedzy.",
+    "tier": 1
+  },
+  "ryk_legacy_founding": {
+    "id": "ryk_legacy_founding",
+    "type": "skill",
+    "treeStat": "reiryoku",
+    "statGrants": {},
+    "tags": [],
+    "passiveName": null,
+    "label": "Legacy Founding",
+    "shortDescription": "",
+    "longDescription": "Każda kolejna nauczona technika z jakiejś tradycji, zwiększa efektywność wszystkich technik w danej tradycji o 0.1x.",
+    "tier": 1
+  },
+  "ryk_s26": {
+    "id": "ryk_s26",
+    "type": "stat",
+    "treeStat": "reiryoku",
+    "statGrants": {
+      "reiryoku": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+2 RYK",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "ryk_s27": {
+    "id": "ryk_s27",
+    "type": "stat",
+    "treeStat": "reiryoku",
+    "statGrants": {
+      "reiryoku": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 RYK",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "ryk_s28": {
+    "id": "ryk_s28",
+    "type": "stat",
+    "treeStat": "reiryoku",
+    "statGrants": {
+      "reiryoku": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+2 RYK",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "ryk_s29": {
+    "id": "ryk_s29",
+    "type": "stat",
+    "treeStat": "reiryoku",
+    "statGrants": {
+      "reiryoku": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+2 RYK",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "ryk_s30": {
+    "id": "ryk_s30",
+    "type": "stat",
+    "treeStat": "reiryoku",
+    "statGrants": {
+      "reiryoku": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+2 RYK",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "ryk_t2s01": {
+    "id": "ryk_t2s01",
+    "type": "stat",
+    "treeStat": "reiryoku",
+    "statGrants": {
+      "reiryoku": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 RYK",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 2
+  },
+  "ryk_t2s02": {
+    "id": "ryk_t2s02",
+    "type": "stat",
+    "treeStat": "reiryoku",
+    "statGrants": {
+      "reiryoku": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+2 RYK",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 2
+  },
+  "ryk_t2s03": {
+    "id": "ryk_t2s03",
+    "type": "stat",
+    "treeStat": "reiryoku",
+    "statGrants": {
+      "reiryoku": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+2 RYK",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 2
+  },
+  "ryk_t2s04": {
+    "id": "ryk_t2s04",
+    "type": "stat",
+    "treeStat": "reiryoku",
+    "statGrants": {
+      "reiryoku": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+2 RYK",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 2
+  },
+  "ryk_t2s05": {
+    "id": "ryk_t2s05",
+    "type": "stat",
+    "treeStat": "reiryoku",
+    "statGrants": {
+      "reiryoku": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+2 RYK",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 2
+  },
+  "ryk_rebel": {
+    "id": "ryk_rebel",
+    "type": "skill",
+    "treeStat": "reiryoku",
+    "statGrants": {},
+    "tags": [
+      "hopeful"
+    ],
+    "passiveName": null,
+    "label": "Reiryoku Rebel",
+    "shortDescription": "",
+    "longDescription": "Uniemożliwia wzięcie innego talentu 'Reiryoku'. Odrzuć zwyczaje. Eksperymentuj. Twórz nową historię i rośnij ponad tafle nieba.",
+    "tier": 2
+  },
+  "ryk_understanding": {
+    "id": "ryk_understanding",
+    "type": "skill",
+    "treeStat": "reiryoku",
+    "statGrants": {},
+    "tags": [
+      "hopeful"
+    ],
+    "passiveName": null,
+    "label": "Reiryoku Understanding",
+    "shortDescription": "",
+    "longDescription": "Uniemożliwia wzięcie innego talentu 'Reiryoku'. Analizuj, rozkładaj na czynniki pierwsze i rozum Reiki, jego i działaj wraz z jego zasadami.",
+    "tier": 2
+  },
+  "ryk_tradition": {
+    "id": "ryk_tradition",
+    "type": "skill",
+    "treeStat": "reiryoku",
+    "statGrants": {},
+    "tags": [
+      "hopeful"
+    ],
+    "passiveName": null,
+    "label": "Reiryoku Tradition",
+    "shortDescription": "",
+    "longDescription": "Uniemożliwia wzięcie innego talentu 'Reiryoku'. Odkop tradycje swoich ras. Kultywuj je. Kontynuuj dziedzictwo.",
+    "tier": 2
+  },
+  "tsh_s01": {
+    "id": "tsh_s01",
+    "type": "stat",
+    "treeStat": "tamashi",
+    "statGrants": {
+      "tamashi": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 TSH",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "tsh_s02": {
+    "id": "tsh_s02",
+    "type": "stat",
+    "treeStat": "tamashi",
+    "statGrants": {
+      "tamashi": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 TSH",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "tsh_s03": {
+    "id": "tsh_s03",
+    "type": "stat",
+    "treeStat": "tamashi",
+    "statGrants": {
+      "tamashi": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 TSH",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "tsh_s04": {
+    "id": "tsh_s04",
+    "type": "stat",
+    "treeStat": "tamashi",
+    "statGrants": {
+      "tamashi": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 TSH",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "tsh_s05": {
+    "id": "tsh_s05",
+    "type": "stat",
+    "treeStat": "tamashi",
+    "statGrants": {
+      "tamashi": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 TSH",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "tsh_s06": {
+    "id": "tsh_s06",
+    "type": "stat",
+    "treeStat": "tamashi",
+    "statGrants": {
+      "tamashi": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 TSH",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "tsh_s07": {
+    "id": "tsh_s07",
+    "type": "stat",
+    "treeStat": "tamashi",
+    "statGrants": {
+      "tamashi": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 TSH",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "tsh_s08": {
+    "id": "tsh_s08",
+    "type": "stat",
+    "treeStat": "tamashi",
+    "statGrants": {
+      "tamashi": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 TSH",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "tsh_s09": {
+    "id": "tsh_s09",
+    "type": "stat",
+    "treeStat": "tamashi",
+    "statGrants": {
+      "tamashi": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 TSH",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "tsh_distant_cry": {
+    "id": "tsh_distant_cry",
+    "type": "skill",
+    "treeStat": "tamashi",
+    "statGrants": {},
+    "tags": [],
+    "passiveName": null,
+    "label": "Distant Cry",
+    "shortDescription": "",
+    "longDescription": "Poznaj prawdę o swojej duszy. Zastosuj ją w swoich technikach Tamashi. Zaadaptuj jedną inną posiadaną technikę.",
+    "tier": 1
+  },
+  "tsh_soul_string": {
+    "id": "tsh_soul_string",
+    "type": "skill",
+    "treeStat": "tamashi",
+    "statGrants": {},
+    "tags": [],
+    "passiveName": null,
+    "label": "Soul String",
+    "shortDescription": "",
+    "longDescription": "Przebudź swoją duszę. Poznaj jej aspekt. Otrzymaj pierwszą w prawdzie swoją technikę.",
+    "tier": 1
+  },
+  "tsh_still_soul": {
+    "id": "tsh_still_soul",
+    "type": "skill",
+    "treeStat": "tamashi",
+    "statGrants": {},
+    "tags": [],
+    "passiveName": null,
+    "label": "Still Soul",
+    "shortDescription": "",
+    "longDescription": "Medytacja czasem pozwala ci zajrzeć do swojego wewnętrznego świata. Zależy to od komunikacji z twoją duszą.",
+    "tier": 1
+  },
+  "tsh_s10": {
+    "id": "tsh_s10",
+    "type": "stat",
+    "treeStat": "tamashi",
+    "statGrants": {
+      "tamashi": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 TSH",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "tsh_s11": {
+    "id": "tsh_s11",
+    "type": "stat",
+    "treeStat": "tamashi",
+    "statGrants": {
+      "tamashi": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 TSH",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "tsh_s12": {
+    "id": "tsh_s12",
+    "type": "stat",
+    "treeStat": "tamashi",
+    "statGrants": {
+      "tamashi": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 TSH",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "tsh_s13": {
+    "id": "tsh_s13",
+    "type": "stat",
+    "treeStat": "tamashi",
+    "statGrants": {
+      "tamashi": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 TSH",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "tsh_s14": {
+    "id": "tsh_s14",
+    "type": "stat",
+    "treeStat": "tamashi",
+    "statGrants": {
+      "tamashi": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 TSH",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "tsh_s15": {
+    "id": "tsh_s15",
+    "type": "stat",
+    "treeStat": "tamashi",
+    "statGrants": {
+      "tamashi": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 TSH",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "tsh_turn_back": {
+    "id": "tsh_turn_back",
+    "type": "skill",
+    "treeStat": "tamashi",
+    "statGrants": {},
+    "tags": [],
+    "passiveName": null,
+    "label": "Turn Back, Please",
+    "shortDescription": "",
+    "longDescription": "Strać 50% wybranej statystyki na stałe. Utwórz technikę na bazie Tamashi, następnie ulepsz dwie.",
+    "tier": 1
+  },
+  "tsh_s16": {
+    "id": "tsh_s16",
+    "type": "stat",
+    "treeStat": "tamashi",
+    "statGrants": {
+      "tamashi": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 TSH",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "tsh_s17": {
+    "id": "tsh_s17",
+    "type": "stat",
+    "treeStat": "tamashi",
+    "statGrants": {
+      "tamashi": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 TSH",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "tsh_s18": {
+    "id": "tsh_s18",
+    "type": "stat",
+    "treeStat": "tamashi",
+    "statGrants": {
+      "tamashi": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 TSH",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "tsh_s19": {
+    "id": "tsh_s19",
+    "type": "stat",
+    "treeStat": "tamashi",
+    "statGrants": {
+      "tamashi": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 TSH",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "tsh_wrong_way": {
+    "id": "tsh_wrong_way",
+    "type": "skill",
+    "treeStat": "tamashi",
+    "statGrants": {},
+    "tags": [],
+    "passiveName": null,
+    "label": "Wrong Way, Soul",
+    "shortDescription": "",
+    "longDescription": "Osłab swoje techniki Tamashi o 25%, ale zacznij widzieć ich prawdziwy widok.",
+    "tier": 1
+  },
+  "tsh_souls_edge": {
+    "id": "tsh_souls_edge",
+    "type": "skill",
+    "treeStat": "tamashi",
+    "statGrants": {},
+    "tags": [],
+    "passiveName": null,
+    "label": "Soul's Edge",
+    "shortDescription": "",
+    "longDescription": "Zmniejsz efektywność całego rozwoju Bujutsu, Bukijutsu i Reiryoku dwukrotnie. Zwiększ swój rozwój Tamashi dwukrotnie.",
+    "tier": 1
+  },
+  "tsh_s20": {
+    "id": "tsh_s20",
+    "type": "stat",
+    "treeStat": "tamashi",
+    "statGrants": {
+      "tamashi": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+2 TSH",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "tsh_s21": {
+    "id": "tsh_s21",
+    "type": "stat",
+    "treeStat": "tamashi",
+    "statGrants": {
+      "tamashi": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 TSH",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "tsh_s22": {
+    "id": "tsh_s22",
+    "type": "stat",
+    "treeStat": "tamashi",
+    "statGrants": {
+      "tamashi": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 TSH",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "tsh_s23": {
+    "id": "tsh_s23",
+    "type": "stat",
+    "treeStat": "tamashi",
+    "statGrants": {
+      "tamashi": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+2 TSH",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "tsh_s24": {
+    "id": "tsh_s24",
+    "type": "stat",
+    "treeStat": "tamashi",
+    "statGrants": {
+      "tamashi": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 TSH",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "tsh_t2s01": {
+    "id": "tsh_t2s01",
+    "type": "stat",
+    "treeStat": "tamashi",
+    "statGrants": {
+      "tamashi": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+2 TSH",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 2
+  },
+  "tsh_t2s02": {
+    "id": "tsh_t2s02",
+    "type": "stat",
+    "treeStat": "tamashi",
+    "statGrants": {
+      "tamashi": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 TSH",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 2
+  },
+  "tsh_t2s03": {
+    "id": "tsh_t2s03",
+    "type": "stat",
+    "treeStat": "tamashi",
+    "statGrants": {
+      "tamashi": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 TSH",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 2
+  },
+  "tsh_t2s04": {
+    "id": "tsh_t2s04",
+    "type": "stat",
+    "treeStat": "tamashi",
+    "statGrants": {
+      "tamashi": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+2 TSH",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 2
+  },
+  "tsh_t2s05": {
+    "id": "tsh_t2s05",
+    "type": "stat",
+    "treeStat": "tamashi",
+    "statGrants": {
+      "tamashi": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 TSH",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 2
+  },
+  "tsh_t2s06": {
+    "id": "tsh_t2s06",
+    "type": "stat",
+    "treeStat": "tamashi",
+    "statGrants": {
+      "tamashi": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 TSH",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 2
+  },
+  "tsh_t2s07": {
+    "id": "tsh_t2s07",
+    "type": "stat",
+    "treeStat": "tamashi",
+    "statGrants": {
+      "tamashi": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 TSH",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 2
+  },
+  "tsh_breakthrough": {
+    "id": "tsh_breakthrough",
+    "type": "skill",
+    "treeStat": "tamashi",
+    "statGrants": {},
+    "tags": [
+      "tamashi_top"
+    ],
+    "passiveName": null,
+    "label": "Tamashi Breakthrough",
+    "shortDescription": "",
+    "longDescription": "Poczuj wodze swojej duszy. Pozwól jej zdominować pole walki. Uwolnij swój pełny potencjał.",
+    "tier": 2
+  },
+  "tsh_fragmented_soul": {
+    "id": "tsh_fragmented_soul",
+    "type": "skill",
+    "treeStat": "tamashi",
+    "statGrants": {},
+    "tags": [
+      "tamashi_top"
+    ],
+    "passiveName": null,
+    "label": "Fragmented Soul",
+    "shortDescription": "",
+    "longDescription": "Gruntownie przebuduj i ulepsz wszystkie swoje techniki na bazie Tamashi.",
+    "tier": 2
+  },
+  "tsh_cycle": {
+    "id": "tsh_cycle",
+    "type": "skill",
+    "treeStat": "tamashi",
+    "statGrants": {},
+    "tags": [
+      "tamashi_top"
+    ],
+    "passiveName": null,
+    "label": "Tamashi Cycle",
+    "shortDescription": "",
+    "longDescription": "Wejdź w idealną harmonię ze swoją duszą. Skontruj się z nią swoich umiejętności. Pracujcie jak równy z równym.",
+    "tier": 2
+  },
+  "tsh_soul_truth": {
+    "id": "tsh_soul_truth",
+    "type": "skill",
+    "treeStat": "tamashi",
+    "statGrants": {},
+    "tags": [
+      "tamashi_top"
+    ],
+    "passiveName": null,
+    "label": "Soul Truth",
+    "shortDescription": "",
+    "longDescription": "Poznaj kolejną prawdę. Ulepsz lub stwórz nową technikę na bazie Tamashi.",
+    "tier": 2
+  },
+  "tsh_endeavor": {
+    "id": "tsh_endeavor",
+    "type": "skill",
+    "treeStat": "tamashi",
+    "statGrants": {},
+    "tags": [
+      "tamashi_top"
+    ],
+    "passiveName": null,
+    "label": "Tamashi Endeavor",
+    "shortDescription": "",
+    "longDescription": "Ugnieć swoją duszę, jak glinę. Dopasuj ją do swoich potrzeb. Spełnij swoje pragnienia i pnij na przód.",
+    "tier": 2
+  },
+  "buj_s01": {
+    "id": "buj_s01",
+    "type": "stat",
+    "treeStat": "bujutsu",
+    "statGrants": {
+      "bujutsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 BUJ",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "buj_s02": {
+    "id": "buj_s02",
+    "type": "stat",
+    "treeStat": "bujutsu",
+    "statGrants": {
+      "bujutsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 BUJ",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "buj_s03": {
+    "id": "buj_s03",
+    "type": "stat",
+    "treeStat": "bujutsu",
+    "statGrants": {
+      "bujutsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 BUJ",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "buj_s04": {
+    "id": "buj_s04",
+    "type": "stat",
+    "treeStat": "bujutsu",
+    "statGrants": {
+      "bujutsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 BUJ",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "buj_s05": {
+    "id": "buj_s05",
+    "type": "stat",
+    "treeStat": "bujutsu",
+    "statGrants": {
+      "bujutsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 BUJ",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "buj_s06": {
+    "id": "buj_s06",
+    "type": "stat",
+    "treeStat": "bujutsu",
+    "statGrants": {
+      "bujutsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 BUJ",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "buj_s07": {
+    "id": "buj_s07",
+    "type": "stat",
+    "treeStat": "bujutsu",
+    "statGrants": {
+      "bujutsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 BUJ",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "buj_s08": {
+    "id": "buj_s08",
+    "type": "stat",
+    "treeStat": "bujutsu",
+    "statGrants": {
+      "bujutsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 BUJ",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "buj_s09": {
+    "id": "buj_s09",
+    "type": "stat",
+    "treeStat": "bujutsu",
+    "statGrants": {
+      "bujutsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 BUJ",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "buj_s10": {
+    "id": "buj_s10",
+    "type": "stat",
+    "treeStat": "bujutsu",
+    "statGrants": {
+      "bujutsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 BUJ",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "buj_many_hands": {
+    "id": "buj_many_hands",
+    "type": "skill",
+    "treeStat": "bujutsu",
+    "statGrants": {},
+    "tags": [
+      "buj_many_hands"
+    ],
+    "passiveName": null,
+    "label": "Many Hands",
+    "shortDescription": "",
+    "longDescription": "Uniemożliwia wzięcie 'Hidden Hand'. Stwórz pasywny styl walki, który modyfikuje twoje ataki podstawowe bez broni.",
+    "tier": 1
+  },
+  "buj_hidden_hand": {
+    "id": "buj_hidden_hand",
+    "type": "skill",
+    "treeStat": "bujutsu",
+    "statGrants": {},
+    "tags": [
+      "buj_hidden_hand"
+    ],
+    "passiveName": null,
+    "label": "Hidden Hand",
+    "shortDescription": "",
+    "longDescription": "Uniemożliwia wzięcie 'Many Hands'. Stwórz styl walki i podstawową technikę do tego stylu walki.",
+    "tier": 1
+  },
+  "buj_s11": {
+    "id": "buj_s11",
+    "type": "stat",
+    "treeStat": "bujutsu",
+    "statGrants": {
+      "bujutsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 BUJ",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "buj_s12": {
+    "id": "buj_s12",
+    "type": "stat",
+    "treeStat": "bujutsu",
+    "statGrants": {
+      "bujutsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 BUJ",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "buj_s13": {
+    "id": "buj_s13",
+    "type": "stat",
+    "treeStat": "bujutsu",
+    "statGrants": {
+      "bujutsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 BUJ",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "buj_s14": {
+    "id": "buj_s14",
+    "type": "stat",
+    "treeStat": "bujutsu",
+    "statGrants": {
+      "bujutsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 BUJ",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "buj_s15": {
+    "id": "buj_s15",
+    "type": "stat",
+    "treeStat": "bujutsu",
+    "statGrants": {
+      "bujutsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 BUJ",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "buj_stepping_stone": {
+    "id": "buj_stepping_stone",
+    "type": "skill",
+    "treeStat": "bujutsu",
+    "statGrants": {},
+    "tags": [],
+    "passiveName": null,
+    "label": "Stepping Stone",
+    "shortDescription": "",
+    "longDescription": "Pozwala ulepszyć technikę stylu walki.",
+    "tier": 1
+  },
+  "buj_cruel_training": {
+    "id": "buj_cruel_training",
+    "type": "skill",
+    "treeStat": "bujutsu",
+    "statGrants": {},
+    "tags": [],
+    "passiveName": null,
+    "label": "Cruel Training",
+    "shortDescription": "",
+    "longDescription": "Na początku tury możesz zapłacić 5% maks. życia, by wykonać o jeden atak podstawowy więcej.",
+    "tier": 1
+  },
+  "buj_s16": {
+    "id": "buj_s16",
+    "type": "stat",
+    "treeStat": "bujutsu",
+    "statGrants": {
+      "bujutsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 BUJ",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "buj_s17": {
+    "id": "buj_s17",
+    "type": "stat",
+    "treeStat": "bujutsu",
+    "statGrants": {
+      "bujutsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 BUJ",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "buj_s18": {
+    "id": "buj_s18",
+    "type": "stat",
+    "treeStat": "bujutsu",
+    "statGrants": {
+      "bujutsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 BUJ",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "buj_s19": {
+    "id": "buj_s19",
+    "type": "stat",
+    "treeStat": "bujutsu",
+    "statGrants": {
+      "bujutsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 BUJ",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "buj_s20": {
+    "id": "buj_s20",
+    "type": "stat",
+    "treeStat": "bujutsu",
+    "statGrants": {
+      "bujutsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 BUJ",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "buj_wish_tomorrow": {
+    "id": "buj_wish_tomorrow",
+    "type": "skill",
+    "treeStat": "bujutsu",
+    "statGrants": {},
+    "tags": [
+      "buj_of_tomorrow"
+    ],
+    "passiveName": null,
+    "label": "Wish of Tomorrow",
+    "shortDescription": "",
+    "longDescription": "Możesz wziąć jedynie 2 talenty 'of Tomorrow'. Zyskujesz technikę na bazie stylu walki. Twój styl walki otrzymuje wybrane skalowanie.",
+    "tier": 1
+  },
+  "buj_cry_tomorrow": {
+    "id": "buj_cry_tomorrow",
+    "type": "skill",
+    "treeStat": "bujutsu",
+    "statGrants": {},
+    "tags": [
+      "buj_of_tomorrow"
+    ],
+    "passiveName": null,
+    "label": "Cry of Tomorrow",
+    "shortDescription": "",
+    "longDescription": "Możesz wziąć jedynie 2 talenty 'of Tomorrow'. Im bardziej jesteś ranny, tym więcej obrażeń zadajesz. Im bardziej ranni są towarzysze, tym mniej obrażeń otrzymujesz (do -25%).",
+    "tier": 1
+  },
+  "buj_horror_tomorrow": {
+    "id": "buj_horror_tomorrow",
+    "type": "skill",
+    "treeStat": "bujutsu",
+    "statGrants": {},
+    "tags": [
+      "buj_of_tomorrow"
+    ],
+    "passiveName": null,
+    "label": "Horror of Tomorrow",
+    "shortDescription": "",
+    "longDescription": "Możesz wziąć jedynie 2 talenty 'of Tomorrow'. Twoja psychika spada dwukrotnie szybciej, ale twój styl walki wzbudza terror, i styl walki zostaje ulepszony.",
+    "tier": 1
+  },
+  "buj_sacrifice_tomorrow": {
+    "id": "buj_sacrifice_tomorrow",
+    "type": "skill",
+    "treeStat": "bujutsu",
+    "statGrants": {},
+    "tags": [
+      "buj_of_tomorrow"
+    ],
+    "passiveName": null,
+    "label": "Sacrifice of Tomorrow",
+    "shortDescription": "",
+    "longDescription": "Możesz wziąć jedynie 2 talenty 'of Tomorrow'. Permanentne obrażenia wzmacniają styl walki. Otrzymywanie negatywnych mnożników rozwija styl walki.",
+    "tier": 1
+  },
+  "buj_s21": {
+    "id": "buj_s21",
+    "type": "stat",
+    "treeStat": "bujutsu",
+    "statGrants": {
+      "bujutsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 BUJ",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "buj_s22": {
+    "id": "buj_s22",
+    "type": "stat",
+    "treeStat": "bujutsu",
+    "statGrants": {
+      "bujutsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 BUJ",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "buj_s23": {
+    "id": "buj_s23",
+    "type": "stat",
+    "treeStat": "bujutsu",
+    "statGrants": {
+      "bujutsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+2 BUJ",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "buj_s24": {
+    "id": "buj_s24",
+    "type": "stat",
+    "treeStat": "bujutsu",
+    "statGrants": {
+      "bujutsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 BUJ",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "buj_s25": {
+    "id": "buj_s25",
+    "type": "stat",
+    "treeStat": "bujutsu",
+    "statGrants": {
+      "bujutsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 BUJ",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "buj_t2s01": {
+    "id": "buj_t2s01",
+    "type": "stat",
+    "treeStat": "bujutsu",
+    "statGrants": {
+      "bujutsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+2 BUJ",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 2
+  },
+  "buj_t2s02": {
+    "id": "buj_t2s02",
+    "type": "stat",
+    "treeStat": "bujutsu",
+    "statGrants": {
+      "bujutsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+2 BUJ",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 2
+  },
+  "buj_t2s03": {
+    "id": "buj_t2s03",
+    "type": "stat",
+    "treeStat": "bujutsu",
+    "statGrants": {
+      "bujutsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+2 BUJ",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 2
+  },
+  "buj_brute": {
+    "id": "buj_brute",
+    "type": "skill",
+    "treeStat": "bujutsu",
+    "statGrants": {},
+    "tags": [
+      "bujutsu_top"
+    ],
+    "passiveName": null,
+    "label": "Bujutsu Brute",
+    "shortDescription": "",
+    "longDescription": "Twój styl walki ulega zmianie. Od teraz twoje ciosy są silniejsze, a twój styl łatwiej ogłusza i niszczy barykady. Skalowanie z Siłą.",
+    "tier": 2
+  },
+  "buj_soul": {
+    "id": "buj_soul",
+    "type": "skill",
+    "treeStat": "bujutsu",
+    "statGrants": {},
+    "tags": [
+      "bujutsu_top"
+    ],
+    "passiveName": null,
+    "label": "Bujutsu Soul",
+    "shortDescription": "",
+    "longDescription": "Twój styl walki ulega zmianie. Twój styl walki zaczyna skalować się z Reiryoku.",
+    "tier": 2
+  },
+  "buj_open_hand": {
+    "id": "buj_open_hand",
+    "type": "skill",
+    "treeStat": "bujutsu",
+    "statGrants": {},
+    "tags": [
+      "bujutsu_top"
+    ],
+    "passiveName": null,
+    "label": "Bujutsu Open Hand",
+    "shortDescription": "",
+    "longDescription": "Twój styl walki ulega zmianie. Od teraz możesz łatwiej przekierowywać ataki dystansowe. Twój styl zaczyna skalować się z Obroną.",
+    "tier": 2
+  },
+  "bkj_s01": {
+    "id": "bkj_s01",
+    "type": "stat",
+    "treeStat": "bukijutsu",
+    "statGrants": {
+      "bukijutsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 BKJ",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "bkj_s02": {
+    "id": "bkj_s02",
+    "type": "stat",
+    "treeStat": "bukijutsu",
+    "statGrants": {
+      "bukijutsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 BKJ",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "bkj_s03": {
+    "id": "bkj_s03",
+    "type": "stat",
+    "treeStat": "bukijutsu",
+    "statGrants": {
+      "bukijutsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 BKJ",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "bkj_s04": {
+    "id": "bkj_s04",
+    "type": "stat",
+    "treeStat": "bukijutsu",
+    "statGrants": {
+      "bukijutsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 BKJ",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "bkj_s05": {
+    "id": "bkj_s05",
+    "type": "stat",
+    "treeStat": "bukijutsu",
+    "statGrants": {
+      "bukijutsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 BKJ",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "bkj_s06": {
+    "id": "bkj_s06",
+    "type": "stat",
+    "treeStat": "bukijutsu",
+    "statGrants": {
+      "bukijutsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 BKJ",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "bkj_s07": {
+    "id": "bkj_s07",
+    "type": "stat",
+    "treeStat": "bukijutsu",
+    "statGrants": {
+      "bukijutsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 BKJ",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "bkj_s08": {
+    "id": "bkj_s08",
+    "type": "stat",
+    "treeStat": "bukijutsu",
+    "statGrants": {
+      "bukijutsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 BKJ",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "bkj_s09": {
+    "id": "bkj_s09",
+    "type": "stat",
+    "treeStat": "bukijutsu",
+    "statGrants": {
+      "bukijutsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 BKJ",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "bkj_s10": {
+    "id": "bkj_s10",
+    "type": "stat",
+    "treeStat": "bukijutsu",
+    "statGrants": {
+      "bukijutsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 BKJ",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "bkj_grindstone": {
+    "id": "bkj_grindstone",
+    "type": "skill",
+    "treeStat": "bukijutsu",
+    "statGrants": {},
+    "tags": [],
+    "passiveName": null,
+    "label": "Grindstone",
+    "shortDescription": "",
+    "longDescription": "Pozwala utworzyć lub ulepszyć technikę na bazie Bukijutsu.",
+    "tier": 1
+  },
+  "bkj_pact": {
+    "id": "bkj_pact",
+    "type": "skill",
+    "treeStat": "bukijutsu",
+    "statGrants": {},
+    "tags": [],
+    "passiveName": null,
+    "label": "Pact",
+    "shortDescription": "",
+    "longDescription": "Wybierz jeden konkretny typ broni. Nie możesz używać od tej pory innych, ale wszystkie techniki Bukijutsu zyskują +25% obrażeń.",
+    "tier": 1
+  },
+  "bkj_monkeys_paw": {
+    "id": "bkj_monkeys_paw",
+    "type": "skill",
+    "treeStat": "bukijutsu",
+    "statGrants": {},
+    "tags": [],
+    "passiveName": null,
+    "label": "Monkey's Paw",
+    "shortDescription": "",
+    "longDescription": "Utwórz specjalny rytuał/tradycję. Wykonanie jej przed walką, daje ci bonusy do technik Bukijutsu, za określony koszt.",
+    "tier": 1
+  },
+  "bkj_s11": {
+    "id": "bkj_s11",
+    "type": "stat",
+    "treeStat": "bukijutsu",
+    "statGrants": {
+      "bukijutsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 BKJ",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "bkj_s12": {
+    "id": "bkj_s12",
+    "type": "stat",
+    "treeStat": "bukijutsu",
+    "statGrants": {
+      "bukijutsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 BKJ",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "bkj_s13": {
+    "id": "bkj_s13",
+    "type": "stat",
+    "treeStat": "bukijutsu",
+    "statGrants": {
+      "bukijutsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 BKJ",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "bkj_guidepost": {
+    "id": "bkj_guidepost",
+    "type": "skill",
+    "treeStat": "bukijutsu",
+    "statGrants": {},
+    "tags": [],
+    "passiveName": null,
+    "label": "Guidepost",
+    "shortDescription": "",
+    "longDescription": "Wybierz atut dla swojego stylu walki Bukijutsu. Wzmocnij nim wszystkie aktualne i przyszłe techniki Bukijutsu.",
+    "tier": 1
+  },
+  "bkj_s14": {
+    "id": "bkj_s14",
+    "type": "stat",
+    "treeStat": "bukijutsu",
+    "statGrants": {
+      "bukijutsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 BKJ",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "bkj_s15": {
+    "id": "bkj_s15",
+    "type": "stat",
+    "treeStat": "bukijutsu",
+    "statGrants": {
+      "bukijutsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 BKJ",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "bkj_s16": {
+    "id": "bkj_s16",
+    "type": "stat",
+    "treeStat": "bukijutsu",
+    "statGrants": {
+      "bukijutsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 BKJ",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "bkj_s17": {
+    "id": "bkj_s17",
+    "type": "stat",
+    "treeStat": "bukijutsu",
+    "statGrants": {
+      "bukijutsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 BKJ",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "bkj_heavy_pressure": {
+    "id": "bkj_heavy_pressure",
+    "type": "skill",
+    "treeStat": "bukijutsu",
+    "statGrants": {},
+    "tags": [
+      "bkj_heavy_pressure"
+    ],
+    "passiveName": null,
+    "label": "Heavy Pressure",
+    "shortDescription": "",
+    "longDescription": "Uniemożliwia wzięcie 'Feather-Like'. Raz na 5 tur, wybrana technika Bukijutsu zyskuje podwójną szybkość lub dystansowa podwójną celność.",
+    "tier": 1
+  },
+  "bkj_feather_like": {
+    "id": "bkj_feather_like",
+    "type": "skill",
+    "treeStat": "bukijutsu",
+    "statGrants": {},
+    "tags": [
+      "bkj_feather_like"
+    ],
+    "passiveName": null,
+    "label": "Feather-Like",
+    "shortDescription": "",
+    "longDescription": "Uniemożliwia wzięcie 'Heavy Pressure'. Przy każdej aktywacji techniki Bukijutsu możesz zrobić dodatkową darmową akcję ruchu.",
+    "tier": 1
+  },
+  "bkj_stone_rain": {
+    "id": "bkj_stone_rain",
+    "type": "skill",
+    "treeStat": "bukijutsu",
+    "statGrants": {},
+    "tags": [
+      "bkj_stone_rain"
+    ],
+    "passiveName": null,
+    "label": "Stone Rain",
+    "shortDescription": "",
+    "longDescription": "Uniemożliwia wzięcie 'Leaf on Surface'. Używanie technik Bukijutsu z rzędu zwiększa siłę (+0.1x za każdą). Efekt tracony po użyciu innych technik.",
+    "tier": 1
+  },
+  "bkj_leaf_on_surface": {
+    "id": "bkj_leaf_on_surface",
+    "type": "skill",
+    "treeStat": "bukijutsu",
+    "statGrants": {},
+    "tags": [
+      "bkj_leaf_on_surface"
+    ],
+    "passiveName": null,
+    "label": "Leaf on Surface",
+    "shortDescription": "",
+    "longDescription": "Uniemożliwia wzięcie 'Stone Rain'. Każda tura bez techniki Bukijutsu zwiększa siłę następnej użytej techniki.",
+    "tier": 1
+  },
+  "bkj_s18": {
+    "id": "bkj_s18",
+    "type": "stat",
+    "treeStat": "bukijutsu",
+    "statGrants": {
+      "bukijutsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+2 BKJ",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "bkj_s19": {
+    "id": "bkj_s19",
+    "type": "stat",
+    "treeStat": "bukijutsu",
+    "statGrants": {
+      "bukijutsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 BKJ",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "bkj_s20": {
+    "id": "bkj_s20",
+    "type": "stat",
+    "treeStat": "bukijutsu",
+    "statGrants": {
+      "bukijutsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+2 BKJ",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "bkj_s21": {
+    "id": "bkj_s21",
+    "type": "stat",
+    "treeStat": "bukijutsu",
+    "statGrants": {
+      "bukijutsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 BKJ",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "bkj_s22": {
+    "id": "bkj_s22",
+    "type": "stat",
+    "treeStat": "bukijutsu",
+    "statGrants": {
+      "bukijutsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 BKJ",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "bkj_s23": {
+    "id": "bkj_s23",
+    "type": "stat",
+    "treeStat": "bukijutsu",
+    "statGrants": {
+      "bukijutsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+2 BKJ",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "bkj_s24": {
+    "id": "bkj_s24",
+    "type": "stat",
+    "treeStat": "bukijutsu",
+    "statGrants": {
+      "bukijutsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+2 BKJ",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 1
+  },
+  "bkj_t2s01": {
+    "id": "bkj_t2s01",
+    "type": "stat",
+    "treeStat": "bukijutsu",
+    "statGrants": {
+      "bukijutsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+2 BKJ",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 2
+  },
+  "bkj_t2s02": {
+    "id": "bkj_t2s02",
+    "type": "stat",
+    "treeStat": "bukijutsu",
+    "statGrants": {
+      "bukijutsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 BKJ",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 2
+  },
+  "bkj_t2s03": {
+    "id": "bkj_t2s03",
+    "type": "stat",
+    "treeStat": "bukijutsu",
+    "statGrants": {
+      "bukijutsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+2 BKJ",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 2
+  },
+  "bkj_t2s04": {
+    "id": "bkj_t2s04",
+    "type": "stat",
+    "treeStat": "bukijutsu",
+    "statGrants": {
+      "bukijutsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+1 BKJ",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 2
+  },
+  "bkj_t2s05": {
+    "id": "bkj_t2s05",
+    "type": "stat",
+    "treeStat": "bukijutsu",
+    "statGrants": {
+      "bukijutsu": 1
+    },
+    "tags": [],
+    "passiveName": null,
+    "label": "+2 BKJ",
+    "shortDescription": "",
+    "longDescription": "",
+    "tier": 2
+  },
+  "bkj_master": {
+    "id": "bkj_master",
+    "type": "skill",
+    "treeStat": "bukijutsu",
+    "statGrants": {},
+    "tags": [
+      "bukijutsu_top"
+    ],
+    "passiveName": null,
+    "label": "Bukijutsu Master",
+    "shortDescription": "",
+    "longDescription": "Połącz wszystkie swoje techniki Bukijutsu w jedną. Jeśli masz tylko jedną, znacznie ją ulepsz.",
+    "tier": 2
+  },
+  "bkj_harmony": {
+    "id": "bkj_harmony",
+    "type": "skill",
+    "treeStat": "bukijutsu",
+    "statGrants": {},
+    "tags": [
+      "bukijutsu_top"
+    ],
+    "passiveName": null,
+    "label": "Bukijutsu Harmony",
+    "shortDescription": "",
+    "longDescription": "Twój styl walki staje się idealnie skomponowany z twoją duszą. Wybrana technika Bukijutsu/Tamashi zwiększa ich efektywność.",
+    "tier": 2
+  },
+  "bkj_hundred_aces": {
+    "id": "bkj_hundred_aces",
+    "type": "skill",
+    "treeStat": "bukijutsu",
+    "statGrants": {},
+    "tags": [
+      "bukijutsu_top"
+    ],
+    "passiveName": null,
+    "label": "Bukijutsu Hundred Aces",
+    "shortDescription": "",
+    "longDescription": "Utwórz dwie nowe techniki Bukijutsu. Wszystkie techniki Bukijutsu mogą być używane z dwukrotną częstotliwością, ale są o 25% słabsze.",
+    "tier": 2
+  }
+}
